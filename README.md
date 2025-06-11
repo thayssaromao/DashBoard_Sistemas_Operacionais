@@ -35,3 +35,9 @@ Use a ferramenta stress (ou stress-ng) para simular carga total no processador.
 sudo apt-get install stress
 stress --cpu 4 --timeout 30
 ```
+
+## Integrantes
+
+Thayssa Daniele Pacheco Romão
+
+Matheus Araújo Akiyoshi Loureiro
