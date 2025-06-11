@@ -2,6 +2,9 @@
 
 Este projeto é um dashboard simples para monitoramento do sistema operacional Linux, desenvolvido em Python utilizando a biblioteca Tkinter para interface gráfica. O dashboard apresenta informações sobre uso de CPU, memória e processos ativos, coletadas diretamente do sistema via `/proc`.
 
+## Visualização Tela Final
+![image](https://github.com/user-attachments/assets/a884aa1c-e22a-4021-8cf5-935078c5a201)
+
 ---
 
 ## Funcionalidades
